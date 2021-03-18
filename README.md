@@ -1,6 +1,6 @@
 # cardano-price-ticker
 
-System Info and Bitcoin and Cardano Price widget for Linux using Conky
+System Info and Bitcoin and Cardano Price widget for Linux using 'Conky' 
 
 will require 'curl' and 'jq' to be installed.
 
